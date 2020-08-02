@@ -1,0 +1,10 @@
+#login {
+	width: 400px;
+	margin: 100px auto;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	background: #fff;
+}
+
+.well { padding: 15px 10px; background: #fff !important; }
